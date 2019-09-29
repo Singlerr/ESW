@@ -17,6 +17,7 @@ public class ReceiveString {
     }
 
     public void execute(){
+
         if(receiveData.startsWith("POST")){
             String[] split = receiveData.replace("POST_", "").split("_");
             String busCode = split[0];
@@ -24,6 +25,8 @@ public class ReceiveString {
            busMap.put(busCode,client);
         }else if(receiveData.startsWith("REG_BUTTON")){
             Main.buttonClient = client;
+        }else if(receiveData.startsWith("UNREG_BUTTON")){
+            Main.buttonClient = null;
         }
     }
 }

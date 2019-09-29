@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e4cb889e-286f-4da7-9a00-619f5762f8a7" name="Default Changelist" comment="" />
+    <list default="true" id="e4cb889e-286f-4da7-9a00-619f5762f8a7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/github/alpen/businfo/BusInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/alpen/businfo/BusInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/github/alpen/businfo/BusInfoRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/alpen/businfo/BusInfoRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/github/alpen/socket/BusList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/alpen/socket/BusList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/github/alpen/socket/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/alpen/socket/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/github/alpen/socket/ReceiveString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/alpen/socket/ReceiveString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/github/alpen/task/BusInfoUpdater.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/alpen/task/BusInfoUpdater.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +24,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -23,11 +35,13 @@
     </option>
   </component>
   <component name="ProjectId" id="1RVtQRYhk4AsrO1M9fYkLHlpgcL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="Downloaded.Files.Path.Enabled" value="true" />
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/io/github/alpen/socket" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15234375" />
@@ -83,5 +97,16 @@
       <updated>1569764074458</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
